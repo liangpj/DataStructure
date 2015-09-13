@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1442138821 source:e:\c++\数据结构\pta_test\maxsubsum_01.cpp
+	<iostream>
+	<vector>
+
+1442142726 source:e:\c++\数据结构\pta_test\maxsubsum_02.cpp
+	<iostream>
+	<vector>
+
