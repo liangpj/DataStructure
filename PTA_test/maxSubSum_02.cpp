@@ -87,7 +87,7 @@ vector<int> maxSubseqSum(vector<int> A)
     return maxSubseqSum(A, 0, A.size()-1);
 }
 
-int main_02()
+int main()
 {
     //vector<int> A{-10,1, 2 ,3 ,4 ,-5, -23, 3 ,7 ,-21};
     int k;

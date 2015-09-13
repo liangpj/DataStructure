@@ -42,7 +42,7 @@ int maxSubSum(const vector<int> &A)
     return maxSum;
 }
 
-int main_01()
+int main()
 {
     int k ;
     vector<int> A;
